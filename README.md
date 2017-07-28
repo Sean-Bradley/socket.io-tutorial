@@ -13,7 +13,7 @@ Then run
 
 Then open a browser and navigate to http://localhost to start lesson 1
 
-Follow the video so you know which lines to uncomment and comment 
+Follow the video so you know which lines to uncomment and comment throughout each lesson
 
 SeanWasEre
 
